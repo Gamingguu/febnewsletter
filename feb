@@ -1,0 +1,2095 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <!--[if gte mso 15]>
+                        <xml>
+                                <o:OfficeDocumentSettings>
+                                <o:AllowPNG/>
+                                <o:PixelsPerInch>96</o:PixelsPerInch>
+                                </o:OfficeDocumentSettings>
+                        </xml>
+                        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style type="text/css">
+    body {
+    margin:0;
+    padding:0;
+    background: rgb(255,255,255);
+    }
+    table td, table th {
+    border-spacing: 0;
+    border-collapse: collapse;
+    border: 0 none;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    }
+
+    .ic-preview-text {
+    display: none !important;
+    mso-hide: all;
+    }
+
+    .fusionResponsiveColumn, .fusionNonResponsiveColumn {
+    font-weight: normal;
+    text-align:left;
+    }
+    /*+++++++++++++++++ MOBILE ++++++++++++++++++*/
+    @media only screen and (max-width: 620px) {
+    .fusionResponsiveContent {
+        width: 100%!important;
+    }
+    .fusionResponsiveColumn {
+        width: auto!important;
+        display:block;
+    }
+
+    .fusionResponsiveImage {
+        width: 100%!important;
+    }
+    .fusionResponsiveImageTable {
+        padding-bottom: 0!important;
+    }
+    .fusionResponsiveCanvas {
+        padding-top: 0px!important;
+        padding-bottom: 0px!important;
+    }
+    }
+
+    @media only screen and (max-width: 500px) {
+    .fusionResponsiveContent {
+        width: 100%!important;
+    }
+    .fusionResponsiveColumn {
+        width: auto!important;
+        display:block;
+    }
+
+    .fusionResponsiveGutter {
+        height: 0;
+    }
+
+    .fusionResponsiveImage {
+        width: 100%!important;
+    }
+    .fusionResponsiveCanvas {
+        padding-top: 0px!important;
+        padding-bottom: 0px!important;
+    }
+
+    .social-text {
+        font-size: 16px!important;
+    }
+
+    .social-block-subtext {
+        font-size: 12px!important;
+    }
+
+    .social-reaction {
+        width: 16px!important;
+        height: 16px!important;
+    }
+
+    .facebook-profile-image {
+        width: 50px!important;
+    }
+
+    .instagram-profile-image {
+        width: 50px!important;
+    }
+    }
+    </style><!--[if !mso]><!-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=verdana:400,400i,500,500i,700,700i" rel="stylesheet"><!--<![endif]-->
+    <title></title>
+  </head>
+  <body>
+    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;margin:0px auto;">
+      <tbody>
+        <tr>
+          <td class="fusionResponsiveCanvas" valign="top" style="width:100%;padding-top:15px;padding-bottom:15px;background-color:rgb(246,246,246);background-repeat:no-repeat;font-family:Roboto, sans-serif;">
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:600px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;width:100%;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:5px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/00ec66d39704d97e86470497f6a6c924.jpeg" class="fusionResponsiveImage" alt="" width="590" height="auto" style="display:block;width:590px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:28px 0px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:600px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-size:48px;color:rgb(0, 204, 255);">Febuary 2023</strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:24px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="background-color:transparent;color:rgb(248, 4, 4);font-size:32px;"><u>SUMMER RECITAL</u></strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong style="background-color:transparent;color:rgb(0, 0, 0);">Saturday June 10, 2023</strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px 0px 20px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/2b27adcffd9de8cb671c6369b1e4e637.jpeg" class="fusionResponsiveImage" alt="" width="540" height="auto" style="display:block;width:540px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:5px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="background-color:transparent;color:rgb(0, 0, 0);font-size:18px;">It’s time to get ready for CIM’s student recital.&nbsp;</strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="background-color:transparent;color:rgb(0, 0, 0);">We encourage all of our students to join in the FUN!</span>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="background-color:transparent;color:rgb(0, 0, 0);">﻿If you or your child would like to participate, let your teacher know that you want to play in the recital so during your lessons you can practice your chosen piece of music to perform, and if you like, have your teacher accompany you in the recital.</span>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="color:rgb(0, 0, 0);background-color:transparent;">Recitals play an important part in the development of any musician. I am a big believer that to be a really great performer, you have to have consistent and gradual performance experience. In addition to consistent performance experience, you need to have a positive performance experience.</span>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="color:rgb(0, 0, 0);background-color:transparent;">All the teachers at the Institute stress that recitals are optional and a lot of fun. If you would like to perform or would like your child to perform in our June recital, here’s how it works:</span>
+                                              </p>
+                                              <ol>
+                                                <li>
+                                                  <span style="background-color:transparent;">Talk to your teacher&nbsp;</span><strong style="background-color:transparent;">NOW</strong><span style="background-color:transparent;">&nbsp;if you would like to perform.&nbsp;</span><strong style="background-color:transparent;">Saturday May 13th will be the deadline to sign up for the recital.</strong><span style="background-color:transparent;">&nbsp;All teachers will sign up their students who have the desire and ability to perform in the June Student Recital.﻿</span>
+                                                </li>
+                                                <li>
+                                                  <span style="background-color:transparent;">One of the many benefits of being an Institute student is that we host recitals every 6 months (June and December). When you perform at the recital, you really want to have something great prepared to play. It will make the recital experience a success for you that will enhance your development instead of impeding it. If you or your child is not quite ready to perform, don’t worry, there’s another recital right around the corner, no more than 6 months away. If you are interested, please talk to your teacher a.s.a.p.</span>
+                                                </li>
+                                              </ol>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <span style="color:rgb(0, 0, 0);background-color:transparent;">I look forward to another great recital in June!</span>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <span style="color:rgb(0, 0, 0);background-color:transparent;">Jim Skelton</span>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="margin-top:0px;margin-bottom:0px;">
+                                                Chief Executive Officer
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <br>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <br>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px 0px 20px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/768517b0a0fcc286f852934e85c4f660.jpeg" class="fusionResponsiveImage" alt="" width="534" height="auto" style="display:block;width:534px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:14px 20px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:520px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:10px 0px 8px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-size:32px;color:rgb(243, 5, 5);"><u>Voted Best Music Lessons!</u></strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/f9ef48ad5c25608a7561e5b1785c4f2a.jpeg" class="fusionResponsiveImage" alt="" width="534" height="auto" style="display:block;width:534px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:17px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <span style="font-size:32px;">Thank You!</span>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <br>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                For voting the Conway Institute of Music the "Best Place For Music Lessons" in the Log Cabin Democrat Best of 2022 contest!!
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                We are honored to be the recipient of your confidence and gratefully appreciate your support!!!
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                Jim Skelton
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                Chief Executive Officer
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <br>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px 0px 20px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/b170788826dd1709517038b6af039c22.jpeg" class="fusionResponsiveImage" alt="" width="540" height="auto" style="display:block;width:540px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:27px 0px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:600px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-size:18px;color:rgb(0, 0, 0);"><em>Our students and their parents are what makes us great!﻿</em></strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:21px 20px;border-color:rgb(0,0,0);border-width:3px;border-style:solid;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:514px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="color:rgb(255, 0, 0);font-size:32px;"><u>Important Dates﻿</u></strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong style="color:rgb(255, 0, 0);font-size:24px;">Closed-No Lessons</strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>SPRING BREAK</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                3/19-23/23
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>MEMORIAL DAY</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                5/27/23
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>SUMMER RECITAL</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                6/10/23
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>SUMMER BREAK</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                7/2-8/23
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>FALL BREAK</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                11/21-25/23
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>WINTER RECITAL</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                TBA
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong>WINTER BREAK</strong>
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                12/22-31/23
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:38px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px 0px 20px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:none;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/dd6f898fb6d74dcb60bcbaaf36343f6f.png" class="fusionResponsiveImage" alt="" width="534" height="auto" style="display:block;width:534px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 17px 0px 16px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:17px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:534px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-size:18px;">The Musical Ladder System®</strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                The Conway Institute of Music is the only music school in the Arkansas that gives their students the opportunity to earn special color wristband bracelets (kids and teens love them!), trophies AND certificates for passing musical tests with the Musical Ladder System®. Do other schools offer trophies and certificates? A few. But none of them inspire their students with smiling faces by giving them full color, really cool “Musical Ladder System®” wristbands that they can show off to their friends.
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                More importantly when our students have a test coming up, they practice more, their parents are proud, their teachers are proud, and everybody wins!
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:16px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:36px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:255px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/a3bcbbdfdc98995245218f5d80f480a6.jpeg" class="fusionResponsiveImage" alt="" width="225" height="auto" style="display:block;width:225px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:249px;background-color:transparent;padding:0px;border-color:transparent;border-width:3px;border-style:solid;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/f9710db8b55cafe7a18730e342a78669.jpeg" class="fusionResponsiveImage" alt="" width="225" height="auto" style="display:block;width:225px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:4px 2px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:194px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/ed678b4d52439d6cf46558eea9df66f4.jpeg" class="fusionResponsiveImage" alt="" width="0" height="auto" style="display:block;width:0px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:194px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/aabc3bba234b3252f7474d995523a5d1.jpeg" class="fusionResponsiveImage" alt="" width="0" height="auto" style="display:block;width:0px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:194px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/83475b1a1f72f6869a435bef934953db.jpeg" class="fusionResponsiveImage" alt="" width="0" height="auto" style="display:block;width:0px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-family:verdana, geneva, sans-serif;color:rgb(243, 5, 5);font-size:24px;"><u>Celebrating Student Achievement</u></strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/8378ed1bced9be080370cf898982ea18.jpeg" class="fusionResponsiveImage" alt="" width="153" height="auto" style="display:block;width:153px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/02a1667c473e6e63578c273a1a43de03.jpeg" class="fusionResponsiveImage" alt="" width="153" height="auto" style="display:block;width:153px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/8f4e4ac40e9a58f236ba95f8f1154b91.jpeg" class="fusionResponsiveImage" alt="" width="153" height="auto" style="display:block;width:153px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/5236d048ac112ecfe7802b0ef76b4ceb.jpeg" class="fusionResponsiveImage" alt="" width="153" height="auto" style="display:block;width:153px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/d348a73293321aab2267b86ba2dc6e9a.jpeg" class="fusionResponsiveImage" alt="" width="153" height="auto" style="display:block;width:153px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/4fe6d40d7906dab96b2425ae1b4f31ec.jpeg" class="fusionResponsiveImage" alt="" width="153" height="auto" style="display:block;width:153px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:51px 15px;border-color:rgb(0,0,0);border-width:1px;border-style:solid;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:538px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                Pictured: Piano student&nbsp;<strong>Drake&nbsp;</strong>earned his Prima Trophy Award!
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                Pictured: Piano&nbsp;student&nbsp;<strong>Kim</strong>&nbsp;earned her Rockstar Wristband Award!
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                Pictured: Drum&nbsp;student<strong>&nbsp;Finn&nbsp;</strong>earned his Vivace Wristband Award!&nbsp;
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                Pictured: Guitar student<strong>&nbsp;Ellen&nbsp;</strong>earned her Songbird trophy!
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                Pictured: Guitar student <strong>Brady&nbsp;</strong>earned his Prima trophy!
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                Pictured: Piano student&nbsp;<strong>Gia&nbsp;</strong>earned her Champion trophy!
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <br>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-size:18px;">Congratulations, everyone!</strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="font-size:10px;">To learn more about how the system can help your child to get better grades, improved confidence, and self esteem and more, please email us at:</span> <a href="mailto:info@conwayinstituteofmusic.com" target="_blank" style="font-size:10px;background-color:rgb(255, 255, 255);color:rgb(6, 43, 248);text-decoration:underline;">info@conwayinstituteofmusic.com</a>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:12px 3px 12px 2px;border-color:rgb(0,0,0);border-width:3px;border-style:solid;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:3px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:584px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <h2 style="text-align:center;color:rgb(51,51,51);font-size:24px;font-family:Roboto, sans-serif;margin-top:0px;margin-bottom:0px;">
+                                                <u style="color:rgb(247, 29, 6);font-size:32px;">Thank You Central Arkansas!</u>
+                                              </h2>
+                                              <h2 style="text-align:center;color:rgb(51,51,51);font-size:24px;font-family:Roboto, sans-serif;margin-top:10px;margin-bottom:0px;">
+                                                <strong style="font-size:18px;">Please welcome the 45 new students who&nbsp;enrolled this Year!!!<u>﻿</u></strong>
+                                              </h2>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:2px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:29px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="margin-top:0px;margin-bottom:0px;">
+                                                Michael T
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Matthew M
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Aldous M
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Dana B
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Jared G
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Rob R
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Terry R
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Debral L
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Autumn W
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Natalie B
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Dimas B
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Sarah T
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Cloud 0
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Adler O
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Sophia T
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="margin-top:0px;margin-bottom:0px;">
+                                                Ally H
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Kiley C
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Conner C
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Marleau V
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Krish M
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Darcy T
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Ainsley T
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Asa T
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Cecelia E
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Laura W
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Reginald E
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Bailey P
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Lily H
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Emily B
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Charleigh W
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:159px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="margin-top:0px;margin-bottom:0px;">
+                                                Cassi H
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Alyssa E
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Albus Z
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Will W
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Kathryn S
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Ted J
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Natalia J
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Luke S
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Elaine D
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Margaret D
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Malea W
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Mollye T
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Elynn O
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                William G
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                Kimberly B
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td style="padding-top:10px;padding-bottom:10px;">
+                                            <table cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0px auto;width:100%;">
+                                              <tbody>
+                                                <tr>
+                                                  <td style="mso-line-height-rule:exactly;font-size:0px;line-height:0px;border-bottom:1px solid rgb(136,136,136);">
+                                                    &nbsp;
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <h1 style="text-align:center;color:rgb(51,51,51);font-size:32px;font-family:Roboto, sans-serif;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-size:24px;color:rgb(243, 5, 5);"><u>Is Your Teacher Sold Out?</u></strong>
+                                              </h1>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:17px 15px;border-color:transparent;border-width:3px;border-style:solid;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:534px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/a76ffbbdf38f2857b05bfb4ac88b5494.jpeg" class="fusionResponsiveImage" alt="" width="528" height="auto" style="display:block;width:528px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:17px 20px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:520px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <span style="font-size:16px;">Many of our teachers are almost sold out and some teachers&nbsp;are&nbsp;sold out. If you need a schedule change or would like to be added to a waiting list for a particular teacher, day, or time, please contact our office staff team and they can add you to the waiting list. If you are not a student yet&nbsp;</span><strong style="font-size:16px;"><em>there is still limited lesson spots available.&nbsp;</em></strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="font-size:16px;">To&nbsp;inquire about openings&nbsp;for</span><strong style="font-size:16px;">&nbsp;March</strong><span style="font-size:16px;">&nbsp;send an e-mail to&nbsp;</span><a href="mailto:info@conwayinstituteofmusic.com" target="_blank" style="font-size:16px;color:rgb(6, 43, 248);font-family:verdana, geneva, sans-serif;text-decoration:underline;">info@conwayinstituteofmusic.com</a><span style="font-size:16px;">&nbsp;, or you can call the office at&nbsp;501-450-2931</span>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;color:rgb(245, 121, 12);font-size:16px;"><u>DRUMS:</u></strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Matt&nbsp;•</strong> <strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ONE</strong> <strong style="font-family:sans-serif;font-size:14px;">SPOT LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Israel</strong> <strong style="font-family:sans-serif;font-size:14px;color:rgb(51, 51, 51);">•&nbsp;&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="color:rgb(245, 121, 12);font-family:sans-serif;font-size:16px;"><u>GUITAR:</u></strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-size:14px;font-family:sans-serif;">Matt&nbsp;•</strong> <strong style="font-size:14px;font-family:sans-serif;color:rgb(248, 5, 5);">ONE</strong> <strong style="font-size:14px;font-family:sans-serif;">SPOT LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;color:rgb(51, 51, 51);font-size:14px;">Israel •&nbsp;&nbsp;&nbsp;</strong><strong style="font-family:sans-serif;color:rgb(248, 5, 5);font-size:14px;">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Tyler •&nbsp;THREE SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-size:14px;font-family:sans-serif;">Logan • FOUR SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-size:14px;font-family:sans-serif;">Chelsea •&nbsp;&nbsp;&nbsp;</strong><strong style="font-size:14px;font-family:sans-serif;color:rgb(248, 5, 5);">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;color:rgb(245, 121, 12);font-size:16px;"><u>VOICE/PIANO:</u></strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Mariah •&nbsp;FIVE SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Abby •&nbsp;&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Michael • FOUR SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Samantha •&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">John</strong> <strong style="font-family:sans-serif;font-size:13px;">•&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;color:rgb(51, 51, 51);">&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;">THREE SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Israel •&nbsp;&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Matt&nbsp;•</strong> <strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ONE</strong> <strong style="font-family:sans-serif;font-size:14px;">SPOT LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Chelsea •&nbsp;&nbsp;&nbsp;</strong><strong style="font-family:sans-serif;font-size:14px;color:rgb(248, 5, 5);">ALL TIMES SOLD OUT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Skyler •&nbsp;FIVE SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;color:rgb(245, 121, 12);font-size:16px;"><u>VIOLIN/VIOLA/CELLO:</u></strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:14px;">Skyler •&nbsp;FIVE SPOTS LEFT.</strong>
+                                              </p>
+                                              <p style="margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-size:14px;font-family:sans-serif;">Lisa •&nbsp;&nbsp;</strong><strong style="font-size:13px;font-family:sans-serif;">TWO SPOTS LEFT.</strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td style="padding-top:10px;padding-bottom:10px;">
+                                            <table cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0px auto;width:100%;">
+                                              <tbody>
+                                                <tr>
+                                                  <td style="mso-line-height-rule:exactly;font-size:0px;line-height:0px;border-bottom:1px solid rgb(136,136,136);">
+                                                    &nbsp;
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:0px 20px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:520px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px 0px 9px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-family:sans-serif;font-size:32px;color:rgb(248, 5, 5);"><u>Best Seller!﻿</u></strong>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:rgb(0,0,0);border-style:solid;border-width:3px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/cb98642661baac0913e5af74e458b964.jpeg" class="fusionResponsiveImage" alt="" width="514" height="auto" style="display:block;width:514px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:23px 20px;border-color:rgb(0,0,0);border-width:1px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:518px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                An easy-to-understand resource, written by Jim Skelton, the
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                founder of Conway Institute of Music.
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                Written for anyone interested in learning to play an instrument
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                or sing. This book covers the basics from A-Z and answers the
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                most commonly asked questions people have.
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                If you’ve ever thought about music lessons for yourself or your
+                                              </p>
+                                              <p class="paragraph-spacing-none" style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                child, you should read this book!
+                                              </p>
+                                              <h3 style="text-align:center;color:rgb(51,51,51);font-size:12px;font-family:Roboto, sans-serif;margin-top:10px;margin-bottom:0px;">
+                                                <strong style="font-size:14px;">Get can get your copy</strong> <a href="https://www.amazon.com/Ultimate-Guide-Music-Lessons-Students/dp/1946203343/ref=sr_1_1?ie=UTF8&amp;qid=1529592702&amp;sr=8-1&amp;keywords=jim+skelton+the+ultimate+guide" target="_blank" style="font-size:14px;color:rgb(6, 43, 248);text-decoration:underline;"><strong>here</strong></a><strong style="font-size:14px;">!</strong>
+                                              </h3>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <div data-aqa="block-image" style="overflow:hidden;">
+                                      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tbody>
+                                          <tr>
+                                            <td class="null" style="padding:0px 0px 20px;">
+                                              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:auto;">
+                                                <tbody>
+                                                  <tr>
+                                                    <th style="display:block;border-color:transparent;border-style:none;border-width:0px;">
+                                                      <img src="https://staticapp.icpsc.com/icp/resources/mogile/1402817/9d3b227cbdcd639adbb8b8bd0fa40e67.jpeg" class="fusionResponsiveImage" alt="" width="0" height="auto" style="display:block;width:0px;height:auto;margin:auto;background-color:transparent;">
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td style="padding-top:2px;padding-bottom:10px;">
+                                            <table cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0px auto;width:100%;">
+                                              <tbody>
+                                                <tr>
+                                                  <td style="mso-line-height-rule:exactly;font-size:0px;line-height:0px;border-bottom:1px solid rgb(136,136,136);">
+                                                    &nbsp;
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:20px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table cellpadding="0" cellspacing="0" border="0" data-fusion-class="" style="width:100%;margin:0px auto;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="width:100%;">
+                    <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0px auto;width:600px;table-layout:fixed;background-color:rgb(255,255,255);">
+                      <tbody>
+                        <tr>
+                          <td style="background-color:rgb(255,255,255);padding:6px 15px;border-color:transparent;border-width:0px;border-style:none;">
+                            <table class="fusionResponsiveContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;table-layout:fixed;">
+                              <tbody>
+                                <tr>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                  <th valign="top" class="fusionResponsiveColumn" data-fusion-class="" style="width:540px;background-color:transparent;padding:0px;border-color:transparent;border-style:none;border-width:0px;transition:all 0.2s ease 0s;">
+                                    <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <div data-fusion-class="" style="margin:0px;padding:0px;border-color:transparent;border-width:0px;border-style:none;background-color:transparent;display:block;color:rgb(51,51,51);font-family:Roboto, sans-serif;font-size:16px;text-align:left;">
+                                              <p style="text-align:center;margin-top:0px;margin-bottom:0px;">
+                                                <strong style="font-size:21px;">It's easy to take the next step:</strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="font-size:16px;">Lessons are first come, first serve&nbsp;</span>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="font-size:16px;">so contact us today to arrange your first lesson!</span>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <strong style="font-size:20px;">(501) 450-2931</strong>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <a href="mailto:info@conwayinstituteofmusic.com" target="_blank" style="font-size:16px;color:rgb(6, 43, 248);text-decoration:underline;"><strong>info@conwayinstituteofmusic.com</strong></a>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="font-size:16px;">945 Carson Cove #103, Conway, Arkansas</span>
+                                              </p>
+                                              <p style="text-align:center;margin-top:16px;margin-bottom:0px;">
+                                                <span style="font-size:16px;">Offering quality Guitar, Vocal, Singing, Bass, Drums, Piano and Violin lessons in Conway, Greenbrier, Vilonia, Mayflower, and all of Central Arkansas.</span>
+                                              </p>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </th>
+                                  <th class="fusionResponsiveColumn" style="mso-line-height-rule:exactly;width:15px;line-height:0;font-size:0px;">
+                                    <!--[if !mso]><!--><img src="https://ui.icontact.com/assets/1px.png" class="css-fisw11" width="1" border="0" style="display: block;"><!--<![endif]-->
+                                  </th>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
